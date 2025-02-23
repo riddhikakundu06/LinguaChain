@@ -40,7 +40,7 @@ src/
  ├── main.tsx           # React entry point
 
 ## 📦 Installation
-git clone [https://github.com/your-repo/linguachain.git](https://github.com/riddhikakundu06/LinguaChain/)
+git clone [https://github.com/riddhikakundu06/LinguaChain.git](https://github.com/riddhikakundu06/LinguaChain.git)
 cd linguachain
 npm install
 
